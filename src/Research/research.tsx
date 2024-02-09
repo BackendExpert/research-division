@@ -7,12 +7,14 @@ const research = () => {
             <p className="">Research Division at NIFS</p>
         </div>
         <div className="md:grid grid-cols-3 gap-8">
-            <div className="">
+            <div className="pt-[-20px]">
                 <img src="https://c1.wallpaperflare.com/preview/690/437/145/microscope-research-lab-laboratory.jpg" alt="" className="rounded h-56 w-full"/>
-                <p className="">Biological Science</p>
-                <div className="flex">
-                    <p className="">Explore more</p>
-                    <p className=""></p>
+                <div className="">
+                    <p className="text-xl font-semibold">Biological Science</p>
+                    <div className="flex">
+                        <p className="">Explore more</p>
+                        <p className="pt-[3px]"><IonIcon name="chevron-forward-outline" /></p>
+                    </div>
                 </div>
             </div>
             <div className="">
