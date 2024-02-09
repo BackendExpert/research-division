@@ -1,10 +1,11 @@
-import { BrowserRouter, Router, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Research from "./Research/research";
 
 export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route></Route>
+          <Route path="/Research" element={<Research />}></Route>
       </Routes>
     </BrowserRouter>
   )
