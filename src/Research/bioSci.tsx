@@ -1,6 +1,8 @@
 const bioSci = () => {
   return (
-    <div>bioSci</div>
+    <div className="container mx-auto px-10">
+
+    </div>
   )
 }
 
