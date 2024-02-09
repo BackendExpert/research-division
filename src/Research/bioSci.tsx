@@ -10,7 +10,7 @@ const bioSci = () => {
             </div>
 
         </div>
-        <div className="container mx-auto px-10">
+        <div className="container mx-auto px-10 md:mt-8 mt-[-50%]">
             <div className="">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio molestias consequuntur vel ex magni repellendus ipsum iusto nobis sed maiores repudiandae quo quas sapiente asperiores molestiae possimus ducimus, earum assumenda!
             </div>
