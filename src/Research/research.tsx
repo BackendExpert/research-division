@@ -1,3 +1,4 @@
+import IonIcon from "@reacticons/ionicons"
 
 const research = () => {
   return (
@@ -9,6 +10,10 @@ const research = () => {
             <div className="">
                 <img src="https://c1.wallpaperflare.com/preview/690/437/145/microscope-research-lab-laboratory.jpg" alt="" className="rounded h-56 w-full"/>
                 <p className="">Biological Science</p>
+                <div className="flex">
+                    <p className="">Explore more</p>
+                    <p className=""></p>
+                </div>
             </div>
             <div className="">
                 <img src="https://wallpapercave.com/wp/wp2293434.jpg" alt="" className="rounded h-56 w-full" />
