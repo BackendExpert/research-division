@@ -19,10 +19,10 @@ const research = () => {
                 <img src="https://wallpapercave.com/wp/wp2293434.jpg" alt="" className="rounded h-56 w-full"/>
             </div>        
             <div className="">
-                <img src="https://wallpapercave.com/wp/wp13396133.png" alt="" className="rounded h-56 w-full"/>
+                <img src="https://wallpapercave.com/wp/wp12615291.jpg" alt="" className="rounded h-56 w-full"/>
             </div>
             <div className="">
-                <img src="https://wallpapercave.com/wp/wp13396133.png" alt="" className="rounded h-56 w-full"/>
+                <img src="https://wallpapercave.com/wp/wp8860783.jpg" alt="" className="rounded h-56 w-full"/>
             </div>
         </div>
     </div>
