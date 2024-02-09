@@ -8,7 +8,7 @@ const research = () => {
         </div>
         <div className="md:grid grid-cols-3 gap-8">
             <div className="pt-[-20px]">
-                <img src="https://c1.wallpaperflare.com/preview/690/437/145/microscope-research-lab-laboratory.jpg" alt="" className="rounded h-56 w-full hover:bg-blend-hue"/>
+                <img src="https://c1.wallpaperflare.com/preview/690/437/145/microscope-research-lab-laboratory.jpg" alt="" className="rounded h-56 w-full object-cover"/>
                 <p className="text-xl font-semibold mt-[-120px] ml-8 text-white">Biological Science</p>
                 <div className="flex text-yellow-300 ml-8">
                     <p className="">Explore more</p>
