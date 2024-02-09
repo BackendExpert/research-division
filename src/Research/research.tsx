@@ -10,7 +10,7 @@ const research = () => {
                 <img src="https://c1.wallpaperflare.com/preview/690/437/145/microscope-research-lab-laboratory.jpg" alt="h-full w-auto" />
             </div>
             <div className="">
-                <img src="https://wallpapercave.com/wp/wp2293434.jpg" alt="" />
+                <img src="https://wallpapercave.com/wp/wp2293434.jpg" alt="rounded" />
             </div>
             <div className="">
                 <img src="https://c1.wallpaperflare.com/preview/690/437/145/microscope-research-lab-laboratory.jpg" alt="" />
