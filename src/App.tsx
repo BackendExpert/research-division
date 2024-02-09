@@ -6,6 +6,7 @@ export default function App() {
     <BrowserRouter>
       <Routes>
           <Route path="/Research" element={<Research />}></Route>
+          <Route path="/Research/view" ></Route>
       </Routes>
     </BrowserRouter>
   )
